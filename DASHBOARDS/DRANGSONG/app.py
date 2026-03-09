@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-from sklearn.decomposition import PCA
 import regex
 from plotly.subplots import make_subplots
 from jupyter_dash import JupyterDash
