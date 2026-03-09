@@ -2,8 +2,8 @@ dash
 gunicorn
 pandas
 numpy
-plotly.express
-plotly.graph_objects
+plotly
+plotly
 regex
 jupyter_dash
 dash_bootstrap_components
