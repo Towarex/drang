@@ -119,5 +119,5 @@ def draw_pair(pierwiastek1, pierwiastek2, dane):
   return fig
 
 
-app.run(jupyter_mode="external", port=8000, debug=True)
+app.run(jupyter_mode="external", debug=True)
 
